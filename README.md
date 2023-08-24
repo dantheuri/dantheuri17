@@ -4,7 +4,9 @@
 - 📫 How to reach me Email:
 
 
-Email: ```dantheuri17@gmail.com```
+Email: ```
+dantheuri17@gmail.com
+```
 
 https://www.linkedin.com/in/dantheuri17
 
