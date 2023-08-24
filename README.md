@@ -8,8 +8,7 @@ dantheuri17@gmail.com
 
 https://www.linkedin.com/in/dantheuri17
 
-👩🏿‍💻 Check out some of my recent projects
-
+Check out some of my recent projects
     A Web Application to manage Employee Information
         https://github.com/dantheuri17/Employee-Management-System
     A Web application for a small clinic
