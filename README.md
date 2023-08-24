@@ -12,7 +12,7 @@ Check out some of my recent projects
 - A Web Application to manage Employee Information
     - https://github.com/dantheuri17/Employee-Management-System
 - A Web application for a small clinic
-    - [https://github.com/Kendi42/Small-Clinic-Web-App](https://github.com/dantheuri17/Clinic-Management-System)
+    - https://github.com/dantheuri17/Clinic-Management-System
 - A Job Portal Connecting Employers and University Students
     - https://github.com/dantheuri17/Job-Portal-Project
 
