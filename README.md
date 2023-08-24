@@ -4,11 +4,11 @@
 - 📫 How to reach me:
 
 ```jsx
-dantheuri17@gmail.com
+- dantheuri17@gmail.com
 ```
 
 ```jsx
-https://www.linkedin.com/in/dantheuri17
+- https://www.linkedin.com/in/dantheuri17
 ```
 
 Check out some of my recent projects
