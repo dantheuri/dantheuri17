@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Theuri. I am a student at United States International University - Africa (USIU)
+- 👋 Hi, I’m Daniel Theuri. I graduated from United States International University - Africa (USIU)
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me:
