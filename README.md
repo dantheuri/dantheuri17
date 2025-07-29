@@ -4,23 +4,23 @@
 - 📫 How to reach me:
 
 ```jsx
-dantheuri17@gmail.com
+daniel.m.theuri@gmail.com
 ```
 
 ```jsx
-https://www.linkedin.com/in/dantheuri17
+https://www.linkedin.com/in/dantheuri
 ```
 
 Check out some of my recent projects
 
 - A Web application for a Small clinic
-    - https://github.com/dantheuri17/Clinic-Management-System
+    - https://github.com/dantheuri/Clinic-Management-System
 - A Web Application to manage Employee Information
-    - https://github.com/dantheuri17/Employee-Management-System
+    - https://github.com/dantheuri/Employee-Management-System
 - A Job Portal Connecting Employers and University Students
-    - https://github.com/dantheuri17/Job-Portal-Project
+    - https://github.com/dantheuri/Job-Portal-Project
 - View All Projects
-    - https://github.com/dantheuri17?tab=repositories
+    - https://github.com/dantheuri?tab=repositories
 
 
 
